@@ -11,6 +11,7 @@ Ipad
 Raspberry Pi 
 - The Server side is managed by the python using the Twisted Library to initiate TCP communication
 
+
 Arduino
 -The arduino will recieve the command from the Raspberry using the SerialCommunication Protocol
 -The arduino and the the Raspberry Pi will be connected using USB Port( in future try to eliminate the Arduino)
