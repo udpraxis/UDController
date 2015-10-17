@@ -13,5 +13,5 @@ Raspberry Pi
 
 
 Arduino
--The arduino will recieve the command from the Raspberry using the SerialCommunication Protocol
--The arduino and the the Raspberry Pi will be connected using USB Port( in future try to eliminate the Arduino)
+- The arduino will recieve the command from the Raspberry using the SerialCommunication Protocol
+- The arduino and the the Raspberry Pi will be connected using USB Port( in future try to eliminate the Arduino)
